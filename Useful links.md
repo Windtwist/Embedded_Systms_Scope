@@ -15,3 +15,6 @@ Useful Links
 [https://pytorch.org/tutorials/intermediate/realtime_rpi.html]
 
 [https://jordan-johnston271.medium.com/tutorial-running-yolov5-machine-learning-detection-on-a-raspberry-pi-4-3938add0f719]
+
+
+[Distnace estimation](https://www.researchgate.net/publication/356827728_Advance_Driving_Assistance_Systems_Object_Detection_and_Distance_Estimation_Using_Deep_Learning)
