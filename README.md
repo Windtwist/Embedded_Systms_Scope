@@ -4,6 +4,8 @@
 
 Repository for CSE-60685-CX-01 Machine Learning for Embedded Systems
 
+Communication channels: [https://discord.gg/Sa6tGvS4]
+
 Models: MobileNet v2 [https://paperswithcode.com/method/mobilenetv2]
 
 Datasets: COCO + [BDD100k](https://www.vis.xyz/bdd100k/)
