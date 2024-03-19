@@ -16,4 +16,4 @@ Detection of objects, estimate distance -> local minima -> where distance trigge
 
 - Model trained on COCO + fine tuned for BDD100K
 - Implement on PI
-- prove detection works
+- Prove detection works
